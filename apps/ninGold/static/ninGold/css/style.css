@@ -1,0 +1,16 @@
+fieldset{
+	display:inline-block;
+	width:300px;
+}
+div{
+	border:1px solid black;
+	width:100%;
+	display:inline-block;
+}
+
+.green{
+	color:green;
+}
+.red{
+	color:red;
+}
